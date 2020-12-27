@@ -1,7 +1,5 @@
 this is dev branch ！！！
-<<<<<<< HEAD
-this is a new line !!!
-=======
 this is a new line !!!
 this is a second line
->>>>>>> dev
+this is three line
+
